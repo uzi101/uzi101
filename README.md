@@ -6,7 +6,7 @@
     </a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
-        <img src="https://img.shields.io/badge/age-20-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
+        <img src="https://img.shields.io/badge/age-19-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
     </a>
 </div>
 <div align="center">
