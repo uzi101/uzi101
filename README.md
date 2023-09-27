@@ -11,7 +11,7 @@
 </div>
 <div align="center">
     <h3>Hi, i'm Uzair 👋 </h3>
-    I'm a 19 yr old backend developer.
+    I'm a 19 yr old aspring software engineer.
     <h3>📚 Languages / Frameworks</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,python,django,flask,react,nodejs,eclipse,css,html,java,js,matlab&perline=13">
