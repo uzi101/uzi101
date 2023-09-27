@@ -14,11 +14,11 @@
     I'm a 19 yr old backend developer.
     <h3>📚 Languages / Frameworks</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,python,django,flask,react,nodejs,eclipse&perline=13">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,python,django,flask,react,nodejs,eclipse,css,html,java,js,matlab&perline=13">
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,discord,ai,ps,pr,electron,git,github,githubactions,materialui,mongodb,nginx,ps,pr,regex,replit,stackoverflow,vscode&perline=13">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,git,github,githubactions,materialui,regex,replit,stackoverflow,vscode,pycharm,arduino,instagram,linkedin&perline=13">
     </a>
 </div>
 
