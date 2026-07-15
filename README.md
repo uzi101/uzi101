@@ -10,12 +10,16 @@
 
 <div align="center">
 
-  <!-- Replace YOUR_HANDLE / YOUR_EMAIL below with real values -->
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn" />
+  <!-- LinkedIn badge is logo-free on purpose: simple-icons removed the LinkedIn glyph in v14. -->
+  <a href="https://www.linkedin.com/in/uzair-beg/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="https://uzairbeg.com">
+    <img src="https://img.shields.io/badge/Portfolio-uzairbeg.com-cba6f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1e2e" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:uzairbeg11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20out-cba6f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Email" />
   </a>
   &nbsp;
@@ -31,7 +35,7 @@
 - 💼 &nbsp;SWE intern at **JPMorgan Chase** — previously **Snap Inc.** and **DRB Systems (Vontier)**
 - ⚡ &nbsp;I build **low-latency C++ systems** and **distributed backends** — code that has to stay correct under real concurrency, not just in the happy path
 - 🧠 &nbsp;Deep in **HPC** (CUDA / MPI, tail-latency profiling), **streaming pipelines** (Kafka), and **multi-agent AI tooling** (LLM pipelines, RAG, MCP)
-- 🌱 &nbsp;Long game: **defense tech & autonomous systems**
+- 🌱 &nbsp;Drawn to hard engineering wherever it lives — **AI infrastructure**, **performance-critical systems**, and **autonomous tech**
 - 🃏 &nbsp;Off the clock: poker & game theory, and a cat who insists on reviewing every PR
 
 <br/>
@@ -100,16 +104,21 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/cba6f7" width="42" />
+  <!-- Icons served from Iconify (mdi set) — themeable and reliable, unlike simple-icons' removed LinkedIn glyph. -->
+  <a href="https://www.linkedin.com/in/uzair-beg/">
+    <img alt="LinkedIn" src="https://api.iconify.design/mdi/linkedin.svg?color=%23cba6f7" width="42" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/fireflightg">
-    <img alt="GitHub" src="https://cdn.simpleicons.org/github/cba6f7" width="42" />
+    <img alt="GitHub" src="https://api.iconify.design/mdi/github.svg?color=%23cba6f7" width="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img alt="Email" src="https://cdn.simpleicons.org/gmail/cba6f7" width="42" />
+  <a href="https://uzairbeg.com">
+    <img alt="Portfolio" src="https://api.iconify.design/mdi/web.svg?color=%23cba6f7" width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:uzairbeg11@gmail.com">
+    <img alt="Email" src="https://api.iconify.design/mdi/gmail.svg?color=%23cba6f7" width="42" />
   </a>
 
 </div>
