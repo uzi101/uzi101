@@ -1,16 +1,15 @@
 <div align="center">
 
-  <!-- Animated header. Edit the `lines=` param to change the rotating taglines. -->
+  <!-- Animated header. Lines shortened + width widened so nothing clips. -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=CBA6F7&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Uzair+%F0%9F%91%8B;Software+Engineer+%E2%80%94+Systems+%26+Applied+AI;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Distributed+Systems+%E2%80%A2+Applied+AI"
-    alt="Uzair — Software Engineer, Systems & Applied AI"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=CBA6F7&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Uzair+%F0%9F%91%8B;Systems+%26+Applied+AI+Engineer;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Distributed+Systems"
+    alt="Uzair — Systems & Applied AI Engineer"
   />
 
 </div>
 
 <div align="center">
 
-  <!-- LinkedIn badge is logo-free on purpose: simple-icons removed the LinkedIn glyph in v14. -->
   <a href="https://www.linkedin.com/in/uzair-beg/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="LinkedIn" />
   </a>
@@ -31,13 +30,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 &nbsp;CS & Engineering at **Ohio State** — graduating **Dec 2026**
-- 💼 &nbsp;SWE intern at **JPMorgan Chase** (Java / Spring Boot) — previously **Snap Inc.** and **Vontier**
-- 🧩 &nbsp;Core stack is **C++ and Python**, backed by strong full-stack range (React / Next.js → FastAPI / Spring Boot / .NET)
-- ⚡ &nbsp;Pivoting deep into **systems & applied AI**: low-latency C++, **HPC** (CUDA / MPI, tail-latency profiling), and distributed backends
-- 🧠 &nbsp;**Streaming pipelines** (Kafka) and **multi-agent AI tooling** (LLM pipelines, RAG, MCP)
-- 🚀 &nbsp;Co-founder / founding engineer across several startups (below)
-- 🃏 &nbsp;Off the clock: poker, game theory, and one opinionated cat
+> I like building the stuff that has to be fast and not fall over. Lately I'm pushing deeper into systems and applied AI.
+
+- 🎓 &nbsp;Wrapping up CS & Engineering at Ohio State this December
+- 💼 &nbsp;Right now I'm interning at JPMorgan, living mostly in Java and Spring
+- 🧩 &nbsp;C++ and Python are where I'm most at home, though I've done plenty of full-stack too: React and Next.js up top, FastAPI, Spring, or .NET underneath
+- ⚡ &nbsp;The work I actually get excited about: low-latency C++, CUDA and MPI, distributed systems, and building agent tooling with LLMs, RAG, and MCP
+- 🚀 &nbsp;I've co-founded and been the founding engineer at a few startups (down below)
+- 🃏 &nbsp;Off the clock: poker, prediction markets, and a cat who's claimed my keyboard as his
 
 <br/>
 
@@ -68,7 +68,6 @@
 <img src="https://img.shields.io/badge/Claude%20Code-1e1e2e?style=for-the-badge&logo=anthropic&logoColor=cba6f7" alt="Claude Code" />
 <img src="https://img.shields.io/badge/OpenAI-1e1e2e?style=for-the-badge&logo=openai&logoColor=cba6f7" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Codex-1e1e2e?style=for-the-badge&logo=openai&logoColor=cba6f7" alt="Codex" />
-<img src="https://img.shields.io/badge/Hugging%20Face-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=cba6f7" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/MCP-1e1e2e?style=for-the-badge&logoColor=cba6f7" alt="Model Context Protocol" />
 
 > Also working with: gRPC, Celery, WebSockets, CI/CD, SQL, Azure DevOps, and RAG / vector search.
@@ -82,7 +81,7 @@
 - **AlphaSevn** — *Co-Founder.* Algorithmic prop-trading system.
 - **Fee Dodger** — *Co-Founder.* B2C reseller inventory platform.
 
-> Comfortable in zero-to-one mode: shipping fast with design partners, wearing every hat from systems design to go-to-market.
+> I'm at my best in zero-to-one mode: shipping fast with design partners and wearing every hat from systems design to go-to-market.
 
 <br/>
 
@@ -99,7 +98,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/uzi101/REPO_NAME">AETHER — Autonomous Fleet Command</a></h3>
+      <!-- Swap this href for the real AETHER repo once it's public; points to your profile for now so it never 404s. -->
+      <h3><a href="https://github.com/uzi101">AETHER — Autonomous Fleet Command</a></h3>
       <p>Real-time C++ drone-fleet backend: packed-binary UDP telemetry pipeline feeding a seqlock-synchronized fleet state (acquire/release ordering) across dozens of drones, streamed into Palantir Foundry via its Streams API.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=flat-square&logo=cplusplus&logoColor=cba6f7" />
@@ -132,7 +132,6 @@
 
 <div align="center">
 
-  <!-- Icons served from Iconify (mdi set) — themeable and reliable, unlike simple-icons' removed LinkedIn glyph. -->
   <a href="https://www.linkedin.com/in/uzair-beg/">
     <img alt="LinkedIn" src="https://api.iconify.design/mdi/linkedin.svg?color=%23cba6f7" width="42" />
   </a>
