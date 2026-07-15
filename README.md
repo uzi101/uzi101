@@ -57,18 +57,23 @@
 
 **Systems & HPC**
 
+<p>
 <img src="https://img.shields.io/badge/CUDA-1e1e2e?style=for-the-badge&logo=nvidia&logoColor=cba6f7" alt="CUDA" />
 <img src="https://img.shields.io/badge/MPI-1e1e2e?style=for-the-badge&logoColor=cba6f7" alt="MPI" />
 <img src="https://img.shields.io/badge/HPC-1e1e2e?style=for-the-badge&logoColor=cba6f7" alt="HPC" />
-[![Build tools](https://skillicons.dev/icons?i=cmake,bash&perline=13)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/CMake-1e1e2e?style=for-the-badge&logo=cmake&logoColor=cba6f7" alt="CMake" />
+<img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=cba6f7" alt="Bash" />
+</p>
 
 **AI / LLM**
 
+<p>
 <img src="https://img.shields.io/badge/Claude-1e1e2e?style=for-the-badge&logo=anthropic&logoColor=cba6f7" alt="Claude" />
 <img src="https://img.shields.io/badge/Claude%20Code-1e1e2e?style=for-the-badge&logo=anthropic&logoColor=cba6f7" alt="Claude Code" />
 <img src="https://img.shields.io/badge/OpenAI-1e1e2e?style=for-the-badge&logo=openai&logoColor=cba6f7" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Codex-1e1e2e?style=for-the-badge&logo=openai&logoColor=cba6f7" alt="Codex" />
-<img src="https://img.shields.io/badge/MCP-1e1e2e?style=for-the-badge&logoColor=cba6f7" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/MCP-1e1e2e?style=for-the-badge&logoColor=cba6f7" alt="MCP" />
+</p>
 
 > Also working with: gRPC, Celery, WebSockets, CI/CD, SQL, Azure DevOps, and RAG / vector search.
 
